@@ -23,7 +23,7 @@ The focus is on identifying high-risk times, days, weather conditions, and locat
 
   Target: No explicit target (Exploratory Data Analysis).
 
-## **📊 Key Insights**
+## **📊 Key Insights:**
 1️⃣ Accidents by Hour of Day
 Peak hours: 7–8 AM and 4–6 PM → Rush hours are most accident-prone.
 Least accidents: 2–4 AM (late night).
@@ -41,9 +41,13 @@ Rain, Fog, and Snow contribute fewer accidents but may involve higher severity.
 4️⃣ Accidents near Amenities
 Most accidents occur away from amenities (like gas stations & rest areas), implying highway & high-speed zones are riskier.
 
-## **🛠 Tech Stack**
+## **🛠 Tech Stack:**
+
 Python: Data analysis & visualization
+
 Pandas & NumPy: Data manipulation
+
 Seaborn & Matplotlib: Charts & plots
+
 Colab Notebook: Interactive analysis
 
