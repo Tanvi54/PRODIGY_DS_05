@@ -13,15 +13,15 @@ The focus is on identifying high-risk times, days, weather conditions, and locat
 
 - Features Used:
 
-  Temporal: Hour of day, day of week
+  1. Temporal: Hour of day, day of week
 
-  Weather: Weather condition, visibility, temperature
+  2. Weather: Weather condition, visibility, temperature
 
-  Location: Accident coordinates, near amenities
+  3. Location: Accident coordinates, near amenities
 
-  Severity: Accident severity levels
+  4. Severity: Accident severity levels
 
-  Target: No explicit target (Exploratory Data Analysis).
+  5. Target: No explicit target (Exploratory Data Analysis).
 
 ## **📊 Key Insights:**
 1️⃣ Accidents by Hour of Day
